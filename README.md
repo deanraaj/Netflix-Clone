@@ -2,6 +2,7 @@
 
 Quick Overview:
   -> Responsive Website UI Design created with HTML, CSS and JavaScript
+  
   -> Full Copy of Netflix Landing Page
   -> Full Tutorial Video available on YouTube link below
   -> Compatible with all Devices
